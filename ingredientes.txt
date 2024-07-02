@@ -3,3 +3,6 @@ Huevos
 Cebolla
 Aceite
 Sal
+Tomates
+Pepino
+Ajos
