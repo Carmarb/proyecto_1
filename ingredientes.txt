@@ -6,3 +6,7 @@ Sal
 Tomates
 Pepino
 Ajos
+Huevos
+Nata
+Azúcar
+Queso crema
