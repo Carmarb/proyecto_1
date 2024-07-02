@@ -4,3 +4,4 @@ Torrilla de Patatas
 - Batir huevos
 
 Paso uno: freir las patatas
+Paso dos: freir la cebolla
